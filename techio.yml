@@ -1,6 +1,6 @@
 title: Python Project
 plan:
-- title: Welcome
+- title: Simple Temperature Converter App with GUI
   statement: markdowns/welcome.md
 projects:
   python:
